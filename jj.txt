@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 kk
-=======
-kkj
->>>>>>> featurel
 lll
+lalalla
